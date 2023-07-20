@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashliya_mohit" target="blank"><img src="https://img.shields.io/twitter/follow/ashliya_mohit?logo=twitter&style=for-the-badge" alt="ashliya_mohit" /></a> </p>
 
-- 🔭 I’m currently working on **open-source projects**
+- 🔭 I’m currently working on **React-based Projects**
 
-- 🌱 I’m currently learning **Android, blockchain and deepdiving**
+- 🌱 I’m currently learning **blockchain, data-science and system-design**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **nothing**
 
-- 💬 Ask me about **react.js, Vanilla.js, UI?UX**
+- 💬 Ask me about **react.js, Vanilla.js, UI/UX**
 
 - 📫 How to reach me **mohit.ashliya@gmail.com**
 
