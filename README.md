@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **React-based Projects**
 
-- 🌱 I’m currently learning **blockchain, data-science and system-design**
+- 🌱 I’m currently a fullstack dev **DSA, Gen AI and system-design**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **Anything that intrests me**
 
-- 💬 Ask me about **react.js, Vanilla.js, UI/UX**
+- 💬 Ask me about **react.js, Vanilla.js, UI/UX, react-native and all about frontend world**
 
 - 📫 How to reach me **mohit.ashliya@gmail.com**
 
